@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d354e34ac5411811aba45a571a092fcfea3bcbd6c2499152b2c94d50aad855b1"
+            "sha256": "dde0a29cb6d2a1f129b81f9fbf727eab7db38fedeaaad651ce492a1d10c00969"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -255,20 +255,20 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:179601ec2992726a718053bf41e43c223ceba397d31ceab11f64d9c910d9fc3a",
-                "sha256:e6315effaf12b890b99956e6f8e2c3000a3f64e4ee91943cec3895ce9a836afb"
+                "sha256:392ba41e82629a77ad70de38c43f8fc0f5f453c965e381e4e87d6fcedc80d6c4",
+                "sha256:461d5fb1ee1422d4a0a439666cebb29e0d5b4bf4308d3c2564449c77a1f4ae52"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==1.43.6"
+            "version": "==1.43.35"
         },
         "botocore": {
             "hashes": [
-                "sha256:611ad8b1f60661373cd39d9391ff16f1eaf8f5cb1d0a691563a4201d1a2603ce",
-                "sha256:6257d2655c3abe75eaa49e218b7d883cdc7cea64652b451e5feb08a6c169da3c"
+                "sha256:51c5893b5404b74012edde03bbd9c199c4bd7ffa35ddad173d0835efa7de281b",
+                "sha256:ea16aaad7db67b5af67719e9da3302474af97a7fdf27161c2ecb30adb3570d50"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==1.43.8"
+            "version": "==1.43.35"
         },
         "brotli": {
             "hashes": [
@@ -2267,11 +2267,11 @@
         },
         "s3transfer": {
             "hashes": [
-                "sha256:9edeb6d1c3c2f89d6050348548834ad8289610d886e5bf7b7207728bd43ce33a",
-                "sha256:ce3801712acf4ad3e89fb9990df97b4972e93f4b3b0004d214be5bce12814c20"
+                "sha256:777cc2415536f1debadb5c2ef7779275d0fc0fe0e042411cdd6caebeb2685262",
+                "sha256:ce436931687addc4c1712d52d40b32f53e88315723f107ffa20ba82b05a0f685"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==0.17.0"
+            "version": "==0.19.0"
         },
         "sentry-sdk": {
             "hashes": [
